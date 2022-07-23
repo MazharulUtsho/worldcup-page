@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Lobster&family=Oswald:wght@200;500&family=Poppins:wght@500;600;700&family=Roboto+Slab:wght@600&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.top-layout {
+    display: flex;
+    justify-content: center;
+
+}
+
+.top-layout-container {
+    display: flex;
+    background-color: black;
+    width: 900px;
+    max-height: 500px;
+    border-radius: 20px;
+
+}
+
+.layout-information {
+    width: 300px;
+    color: white;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+
+.button-style {
+    background-color: tomato;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.fa-greater-than {
+    margin-left: 10px;
+}
+
+.banner-img img {
+    height: 480px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.title {
+    font-size: 30px;
+}
