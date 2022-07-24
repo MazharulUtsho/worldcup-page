@@ -64,29 +64,39 @@ body {
 .button-style2 {
     list-style-type: none;
     background-color: white;
-    max-width: 10%;
+    width: 200px;
     padding: 20px;
     text-align: center;
     border-radius: 10px;
+    margin-left: 18%;
+
 }
 
 .button-style3 {
     list-style-type: none;
     background-color: white;
-    max-width: 10%;
+    width: 200px;
     padding: 20px;
     text-align: center;
     border-radius: 10px;
-    margin-top: 20px;
+    margin-left: 18%;
 }
 
 .button-style4 {
     list-style-type: none;
     background-color: red;
-    max-width: 10%;
+    width: 200px;
     padding: 20px;
     text-align: center;
     border-radius: 10px;
-    margin-top: 20px;
     color: white;
+    margin-left: 18%;
+}
+
+.full-side-bar {
+    background-color: black;
+    height: 300px;
+    width: 20%;
+    border-radius: 20px;
+    padding-top: 30px;
 }
